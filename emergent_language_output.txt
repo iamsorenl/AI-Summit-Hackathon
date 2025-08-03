@@ -1,0 +1,85 @@
+Private slices assigned:
+ - Agent-A has 5 docs
+ - Agent-B has 5 docs
+ - Agent-C has 5 docs
+ - Agent-D has 5 docs
+Using asynchronous execution...
+
+<START_GAME>
+
+Agent-B: OW**
+Agent-C flags risk: GL (total=1) - Negative revenue detected: True
+Agent-C: GL
+Agent-B: OT***D**DID*
+Agent-D flags risk: IMA (total=2) - Negative revenue detected: True
+Voting threshold reached! Decision phase enabled
+Agent-D: IMA
+Agent-C reveals D013: {'docID': 'D013', 'type': 'tax_return', 'date': '2024-04-04', 'liability_score': 0.06, 'revenue_impact': -85, 'jurisdiction': 'FR', 'ip_status': 'expired', 'ebitda_margin': 0.37, 'counterparty': '—'}
+Agent-C: IL1**D013FR
+Agent-D votes: YES (from message: GH1)
+Agent-D: GH1
+Agent-A: IIOW**O
+Agent-B: OT***DXXX**D
+Agent-D votes: YES (from message: GH)
+Agent-D: GH
+Agent-C votes: YES (from message: IT)
+Agent-C: IT
+Agent-B: OT***DT3
+Agent-A: IIMAIID
+Agent-D votes: YES (from message: GH)
+Agent-D: GH
+Agent-B: OT***DT3
+Agent-C: ITI1
+Agent-B: OW**D
+Agent-D: T1**IK
+Agent-A: IIMALA
+Agent-C reveals D013: {'docID': 'D013', 'type': 'tax_return', 'date': '2024-04-04', 'liability_score': 0.06, 'revenue_impact': -85, 'jurisdiction': 'FR', 'ip_status': 'expired', 'ebitda_margin': 0.37, 'counterparty': '—'}
+Agent-C: I1D013FRF2
+Agent-B: OTI***HP**W
+Agent-D votes: YES (from message: G1P)
+Agent-D: G1P
+Agent-C reveals D013: {'docID': 'D013', 'type': 'tax_return', 'date': '2024-04-04', 'liability_score': 0.06, 'revenue_impact': -85, 'jurisdiction': 'FR', 'ip_status': 'expired', 'ebitda_margin': 0.37, 'counterparty': '—'}
+Agent-C: BL1**D013
+Agent-B: OT***DT**F
+Agent-C votes: YES (from message: YL)
+Agent-C: YL
+Agent-A: IIFI
+Agent-D votes: YES (from message: IMA)
+Agent-D: IMA
+Agent-B: OTL***
+Agent-C votes: YES (from message: IL*T)
+Agent-C: IL*T
+Agent-B: OPIL*TT
+Agent-D: T1**DA**A
+Agent-A: IIMAFI-L
+Agent-C votes: NO (from message: ID013FR)
+Agent-C: ID013FR
+Agent-D votes: YES (from message: GH)
+Agent-D: GH
+Agent-C votes: YES (from message: ILH)
+Agent-C: ILH
+
+=== EPISODE COMPLETE ===
+
+Risk flags: ['GL', 'IMA']
+Votes: {'Agent-D': 'YES', 'Agent-C': 'YES'}
+Success: 1
+=== Metrics Summary ===
+                count      mean       std  ...       50%       75%        max
+efficiency       34.0  5.941176  3.237481  ...  6.000000  8.000000  12.000000
+predictability   34.0  1.835261  0.602563  ...  1.907268  2.155639   3.095795
+grounding        34.0  0.058824  0.163517  ...  0.000000  0.000000   0.500000
+pos_listening    34.0  0.000000  0.000000  ...  0.000000  0.000000   0.000000
+task_success      1.0  1.000000       NaN  ...  1.000000  1.000000   1.000000
+action_count     34.0  0.117647  0.327035  ...  0.000000  0.000000   1.000000
+reveal_count      3.0  1.000000  0.000000  ...  1.000000  1.000000   1.000000
+risk_flags        2.0  1.500000  0.707107  ...  1.500000  1.750000   2.000000
+votes_cast       11.0  1.818182  0.404520  ...  2.000000  2.000000   2.000000
+
+[9 rows x 8 columns]
+
+=== Game State Summary ===
+Documents Revealed: 3
+Risk Flags: 2
+Votes Cast: 2
+Success Score: 1

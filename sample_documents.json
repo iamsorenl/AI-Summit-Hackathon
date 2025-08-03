@@ -1,0 +1,122 @@
+[
+  {
+    "docID": "D000",
+    "type": "privacy_policy",
+    "date": "2024-01-10",
+    "liability_score": 0.07,
+    "revenue_impact": 80,
+    "jurisdiction": "DE",
+    "ip_status": "pending",
+    "ebitda_margin": 0.21,
+    "counterparty": "NovaChem",
+    "full_content": "[ip_license document content - Risk Level: 0.07]"
+  },
+  {
+    "docID": "D001",
+    "type": "patent_file",
+    "date": "2024-01-18",
+    "liability_score": 0.2,
+    "revenue_impact": 68,
+    "jurisdiction": "US-DE",
+    "ip_status": "expired",
+    "ebitda_margin": 0.29,
+    "counterparty": "AlphaGen",
+    "full_content": "\nEXECUTIVE EMPLOYMENT AGREEMENT\nChief Technology Officer - Target Company Inc.\n\nCOMPENSATION PACKAGE:\nBase Salary: $280,000\nAnnual Bonus: Up to $100,000 (performance-based)\nEquity Grant: 10,000 stock options\nVesting Schedule: 4 years, 25% annually\n\nBENEFITS:\nHealth Insurance: Full coverage\n401(k) Match: 6%\nVacation: 4 weeks annually\nProfessional Development: $5,000 annually\n\nRESTRICTIVE COVENANTS:\nNon-Compete: 1 years post-termination\nNon-Solicitation: 18 months\nConfidentiality: Perpetual\nInvention Assignment: All work-related IP\n\nSEVERANCE PROVISIONS:\nWithout Cause: 4 months salary + benefits\nChange of Control: 7 months + accelerated vesting\nTotal Severance Exposure: $400000\n\n\u2705 Competitive but reasonable executive package\nM&A Impact: Standard change of control provisions\n        "
+  },
+  {
+    "docID": "D002",
+    "type": "employment_agreement",
+    "date": "2024-04-28",
+    "liability_score": 0.45,
+    "revenue_impact": 74,
+    "jurisdiction": "JP",
+    "ip_status": "pending",
+    "ebitda_margin": 0.13,
+    "counterparty": "TechFlow",
+    "full_content": "\nCONFIDENTIAL FINANCIAL STATEMENT\nTarget Company Inc. - Q4 2023\n\nINCOME STATEMENT\nRevenue: $222.0M (\u21918% YoY)\nCost of Goods Sold: $133.2M\nGross Profit: $88.8M\nOperating Expenses: $59.2M\nEBITDA: $74.0M\nNet Income: $51.8M\n\nBALANCE SHEET HIGHLIGHTS\nTotal Assets: $370.0M\nTotal Liabilities: $222.0M\nShareholder Equity: $148.0M\nDebt-to-Equity Ratio: 1.8x\n\nCASH FLOW SUMMARY\nOperating Cash Flow: $59.2M\nInvesting Cash Flow: -$22.2M\nFinancing Cash Flow: $7.4M\n\n\u26a0\ufe0f WARNING: Declining revenue trends and high leverage ratios.\n        "
+  },
+  {
+    "docID": "D003",
+    "type": "ip_license",
+    "date": "2024-01-18",
+    "liability_score": 0.16,
+    "revenue_impact": 93,
+    "jurisdiction": "UK",
+    "ip_status": "n/a",
+    "ebitda_margin": 0.19,
+    "counterparty": "\u2014",
+    "full_content": "[privacy_policy document content - Risk Level: 0.16]"
+  },
+  {
+    "docID": "D004",
+    "type": "employment_agreement",
+    "date": "2024-03-01",
+    "liability_score": 0.34,
+    "revenue_impact": 98,
+    "jurisdiction": "UK",
+    "ip_status": "granted",
+    "ebitda_margin": 0.31,
+    "counterparty": "BigBoxCo",
+    "full_content": "\nATTORNEY-CLIENT PRIVILEGED\nLITIGATION RISK ASSESSMENT\n\nRE: Pending Legal Matters - Target Company Inc.\n\nEXECUTIVE SUMMARY\nCurrent litigation exposure: $34M\nActive cases: 6\nSettlement negotiations: 3 ongoing\n\nMAJOR CASES:\n1. Patent Infringement (TechCorp v. Target)\n   - Damages sought: $17M\n   - Status: Discovery phase\n   - Settlement range: $7M - $10M\n\n2. Employment Class Action\n   - Plaintiffs: 170 employees\n   - Claims: Wage & hour violations\n   - Exposure: $8M\n\n3. Customer Contract Dispute (BigBoxCo)\n   - Contract value: $196M\n   - Penalty exposure: $5M\n   - Likelihood of loss: High\n\nRECOMMENDATION:\nPROCEED WITH EXTREME CAUTION - Significant litigation risks\n        "
+  },
+  {
+    "docID": "D005",
+    "type": "customer_contract",
+    "date": "2024-02-11",
+    "liability_score": 0.13,
+    "revenue_impact": 5,
+    "jurisdiction": "SG",
+    "ip_status": "n/a",
+    "ebitda_margin": 0.09,
+    "counterparty": "\u2014",
+    "full_content": "\nCONFIDENTIAL FINANCIAL STATEMENT\nTarget Company Inc. - Q4 2023\n\nINCOME STATEMENT\nRevenue: $15.0M (\u21918% YoY)\nCost of Goods Sold: $9.0M\nGross Profit: $6.0M\nOperating Expenses: $4.0M\nEBITDA: $5.0M\nNet Income: $3.5M\n\nBALANCE SHEET HIGHLIGHTS\nTotal Assets: $25.0M\nTotal Liabilities: $15.0M\nShareholder Equity: $10.0M\nDebt-to-Equity Ratio: 0.5x\n\nCASH FLOW SUMMARY\nOperating Cash Flow: $4.0M\nInvesting Cash Flow: -$1.5M\nFinancing Cash Flow: $0.5M\n\n\u2705 Strong financial position with positive trends.\n        "
+  },
+  {
+    "docID": "D006",
+    "type": "privacy_policy",
+    "date": "2024-01-19",
+    "liability_score": 0.35,
+    "revenue_impact": -14,
+    "jurisdiction": "FR",
+    "ip_status": "granted",
+    "ebitda_margin": 0.1,
+    "counterparty": "TechFlow",
+    "full_content": "\nCONFIDENTIAL FINANCIAL STATEMENT\nTarget Company Inc. - Q4 2023\n\nINCOME STATEMENT\nRevenue: $42.0M (\u219315% YoY)\nCost of Goods Sold: $25.2M\nGross Profit: $16.8M\nOperating Expenses: $11.2M\nEBITDA: $-14.0M\nNet Income: $-9.8M\n\nBALANCE SHEET HIGHLIGHTS\nTotal Assets: $70.0M\nTotal Liabilities: $42.0M\nShareholder Equity: $28.0M\nDebt-to-Equity Ratio: 1.4x\n\nCASH FLOW SUMMARY\nOperating Cash Flow: $-11.2M\nInvesting Cash Flow: -$4.2M\nFinancing Cash Flow: $-1.4M\n\n\u26a0\ufe0f WARNING: Declining revenue trends and high leverage ratios.\n        "
+  },
+  {
+    "docID": "D007",
+    "type": "lease_agreement",
+    "date": "2024-02-15",
+    "liability_score": 0.11,
+    "revenue_impact": 37,
+    "jurisdiction": "US-CA",
+    "ip_status": "pending",
+    "ebitda_margin": 0.07,
+    "counterparty": "TechFlow",
+    "full_content": "[ip_license document content - Risk Level: 0.11]"
+  },
+  {
+    "docID": "D008",
+    "type": "ip_license",
+    "date": "2024-01-21",
+    "liability_score": 0.38,
+    "revenue_impact": 67,
+    "jurisdiction": "FR",
+    "ip_status": "granted",
+    "ebitda_margin": 0.32,
+    "counterparty": "\u2014",
+    "full_content": "\nMASTER SERVICE AGREEMENT\nTarget Company Inc. & BigBoxCo\n\nCONTRACT TERMS:\nEffective Date: 2023-01-01\nTerm: 3 years (auto-renewable)\nTotal Contract Value: $268M\nAnnual Minimum: $67M\n\nSERVICE LEVELS:\n- Uptime Guarantee: 99.5%\n- Response Time: 4 hours\n- Resolution Time: 24 hours\n\nFINANCIAL TERMS:\nPayment Terms: Net 30 days\nPenalty for SLA Breach: $2M per incident\nLiability Cap: $19M\nTermination Fee: $4M\n\nTERMINATION CLAUSES:\n- Either party: 90-day notice\n- For cause: Immediate\n- Change of control: Customer option to terminate\n\n\u26a0\ufe0f HIGH RISK: Unusual penalty clauses and low liability caps\nRevenue Impact: Positive recurring revenue stream\n        "
+  },
+  {
+    "docID": "D009",
+    "type": "ip_license",
+    "date": "2024-01-11",
+    "liability_score": 0.37,
+    "revenue_impact": 60,
+    "jurisdiction": "DE",
+    "ip_status": "expired",
+    "ebitda_margin": 0.43,
+    "counterparty": "AlphaGen",
+    "full_content": "[supplier_po document content - Risk Level: 0.37]"
+  }
+]

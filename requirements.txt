@@ -1,6 +1,12 @@
+certifi==2025.8.3
+charset-normalizer==3.4.2
+idna==3.10
+numpy==2.3.2
+pandas==2.3.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.4
+six==1.17.0
 slack_sdk==3.36.0
-openai==1.37.0
-python-dotenv==1.0.0
-requests==2.31.0
-pandas==2.0.3
-asyncio
+tzdata==2025.2
+urllib3==2.5.0

@@ -1,0 +1,121 @@
+================================================================================
+🏢 M&A DUE DILIGENCE DOCUMENT DEMO
+================================================================================
+
+This demonstrates the types of legal and financial documents that
+AI agents analyze during the emergent language competition.
+
+Key Challenge: Agents see only COMPRESSED summaries but must
+collaborate to understand the full business picture!
+
+============================================================
+📄 DOCUMENT 1: EMPLOYMENT AGREEMENT
+============================================================
+Document ID: D000
+Date: 2024-01-20
+Jurisdiction: US-CA
+Counterparty: BigBoxCo
+
+🔍 RISK METRICS:
+  Liability Score: 0.07 🟢 LOW RISK
+  Revenue Impact: $120M 📈 POSITIVE
+  EBITDA Margin: 38.0%
+
+📋 FULL DOCUMENT CONTENT:
+
+CORPORATE TAX RETURN SUMMARY
+Target Company Inc. - Tax Year 2023
+
+FEDERAL RETURN:
+Gross Income: $360M
+Deductions: $240M
+Taxable Income: $120M
+Federal Tax Due: $25M
+Effective Tax Rate: 21%
+
+STATE RETURNS:
+Primary Jurisdiction: New York
+State Tax Due: $10M
+Multi-State Apportionment: Complex
+
+TAX POSITIONS:
+R&D Credits Claimed: $18M
+Transfer Pricing Adjustments: $0M
+Uncertain Tax Positions: $1M
+
+AUDIT STATUS:
+IRS Examination: No current audits
+State Audits: 0 jurisdictions
+Proposed Adjustments: $1M
+
+RISK ASSESSMENT:
+Tax Compliance Risk: MEDIUM - Standard tax positions
+Potential Additional Liability: $2M
+        
+
+🤖 WHAT AGENTS SEE (Compressed):
+   D000:emp:US-CA:Big
+
+💬 COMMUNICATION CHALLENGE:
+   Agents must share insights using only 12 symbols: A-Z,0-9,+-*/_<>
+   They develop their own language to flag risks and share findings!
+
+============================================================
+📄 DOCUMENT 2: LEASE AGREEMENT
+============================================================
+Document ID: D001
+Date: 2024-03-24
+Jurisdiction: US-CA
+Counterparty: AlphaGen
+
+🔍 RISK METRICS:
+  Liability Score: 0.20 🟡 MEDIUM
+  Revenue Impact: $-2M 📉 NEGATIVE
+  EBITDA Margin: 45.0%
+
+📋 FULL DOCUMENT CONTENT:
+[lease_agreement document content - Risk Level: 0.20]
+
+🤖 WHAT AGENTS SEE (Compressed):
+   D001:lea:US-CA:Alp
+
+💬 COMMUNICATION CHALLENGE:
+   Agents must share insights using only 12 symbols: A-Z,0-9,+-*/_<>
+   They develop their own language to flag risks and share findings!
+
+============================================================
+📄 DOCUMENT 3: TAX RETURN
+============================================================
+Document ID: D002
+Date: 2024-04-16
+Jurisdiction: FR
+Counterparty: AlphaGen
+
+🔍 RISK METRICS:
+  Liability Score: 0.15 🟢 LOW RISK
+  Revenue Impact: $58M 📈 POSITIVE
+  EBITDA Margin: 25.0%
+
+📋 FULL DOCUMENT CONTENT:
+[supplier_po document content - Risk Level: 0.15]
+
+🤖 WHAT AGENTS SEE (Compressed):
+   D002:tax:FR:Alp
+
+💬 COMMUNICATION CHALLENGE:
+   Agents must share insights using only 12 symbols: A-Z,0-9,+-*/_<>
+   They develop their own language to flag risks and share findings!
+
+================================================================================
+🎯 COMPETITION OBJECTIVE:
+================================================================================
+4 AI agents each see 5/20 documents and must collaborate to make
+an acquisition decision while developing emergent communication
+protocols under severe bandwidth constraints.
+
+The agents naturally develop shorthand codes, risk flags, and
+voting systems - demonstrating authentic language emergence!
+================================================================================
+✅ Saved 10 sample documents to sample_documents.json
+
+🎉 Demo complete! Check sample_documents.json for full document details.
